@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:aqua;
+    font-style: italic;
+    padding-top: 5%;
+}
+.m{
+background-image: url("https://static.vecteezy.com/system/resources/thumbnails/003/123/185/small/saber-neon-glow-color-flowing-rectangle-background-free-photo.jpg");  
+  background-repeat: no-repeat;
+    background-position:center;
+    background-size: 100%;
+    border-style: solid;
+    
+    
+    border-color: red;
+}
+.c1{
+    text-align: center;
+    padding-top: 15%;
+}
+.c2{
+    text-align: center;
+    padding-top: 5%;
+
+}
+#result{
+text-align: center;
+background-color: black;
+}
