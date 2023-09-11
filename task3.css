@@ -1,3 +1,16 @@
+*{margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.container{
+    padding: 15% 20%;
+    align-items: center;
+   
+   
+}
 h1{
     text-align: center;
     color:aqua;
@@ -8,15 +21,13 @@ h1{
 background-image: url("https://static.vecteezy.com/system/resources/thumbnails/003/123/185/small/saber-neon-glow-color-flowing-rectangle-background-free-photo.jpg");  
   background-repeat: no-repeat;
     background-position:center;
-    background-size: 100%;
+    background-size: 115%;
     border-style: solid;
     
-    
-    border-color: red;
 }
 .c1{
     text-align: center;
-    padding-top: 15%;
+    padding-top: 10%;
 }
 .c2{
     text-align: center;
@@ -25,5 +36,6 @@ background-image: url("https://static.vecteezy.com/system/resources/thumbnails/0
 }
 #result{
 text-align: center;
-background-color: black;
+color: white;
+background: transparent;
 }
