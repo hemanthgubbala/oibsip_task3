@@ -3,27 +3,28 @@
     box-sizing: border-box;
 }
 body{
-    background-color: black;
+    height: 100vh;
+    width:100%;
+    background: linear-gradient(45deg,#0a0a0a,#3a4452);
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 .container{
-    padding: 15% 20%;
-    align-items: center;
-   
-   
+    border: 1px solid #717377;
+    padding: 20px;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/003/123/185/small/saber-neon-glow-color-flowing-rectangle-background-free-photo.jpg"); 
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 115%;
+    border-radius: 10px;
+    box-shadow: 0px 3px 15px rgba(113,115,119,1);
 }
 h1{
     text-align: center;
     color:aqua;
     font-style: italic;
     padding-top: 5%;
-}
-.m{
-background-image: url("https://static.vecteezy.com/system/resources/thumbnails/003/123/185/small/saber-neon-glow-color-flowing-rectangle-background-free-photo.jpg");  
-  background-repeat: no-repeat;
-    background-position:center;
-    background-size: 115%;
-    border-style: solid;
-    
 }
 .c1{
     text-align: center;
